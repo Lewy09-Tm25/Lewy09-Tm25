@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning various technologies for AI
+- 📫 How to reach me: nehmajmudar@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Always hungry for knowledge
