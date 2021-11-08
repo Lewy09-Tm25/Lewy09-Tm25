@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning various technologies like React,React Native and Flask.
+- 🌱 I’m currently learning various technologies like React,React Native and Flask. Personally interested in ML, DL and AI.
 - 📫 How to reach me: nehmajmudar@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Always hungry for knowledge
