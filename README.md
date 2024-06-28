@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently pursuing Masters degree in Data Science.
 - 📫 How to reach me: nehmajmudar@gmail.com
-- ⚡ Always hungry for knowledge
